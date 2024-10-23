@@ -1,4 +1,4 @@
-## EXPERIMENT 19
+## EXPERIMENT 17
 
 ## AIM:
 To study and implement linked list.
